@@ -1,6 +1,6 @@
 # JS Code Test
 
-Please implement the following. There is no time limit or other restrictions apart from the mentioned.
+Please implement the following. There is no time limit or other restrictions apart from the mentioned. Feel free to submit your solutions via GitHub (i.e. fork this repo, or Gist it), or zipped.
 
 1. Without using Javascript's `bind` function, implement the `magic` function so that:
 
